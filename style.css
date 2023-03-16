@@ -1,0 +1,254 @@
+
+html{
+    width: auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fa-cart-shopping{
+    color: rgb(24, 190, 24);
+margin-right: 10px;
+font-size: 25px;
+}
+
+span{
+    color: yellow;
+}
+.bl{
+    color: black;
+}
+.ss{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.yell{
+    background-color: yellow;
+}
+.na{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: white;
+    transition: 1.5s all;
+    -webkit-transition: 1.5s all;
+    -moz-transition: 1.5s all;
+    -ms-transition: 1.5s all;
+    -o-transition: 1.5s all;
+
+margin-right: 15px;
+}
+.na:hover{
+    color: black;
+}
+.tl{
+    margin-left: 100px;
+}
+.bo{
+    color: black;
+
+font-size: 25px;
+
+margin-right: 15px;
+
+
+
+}
+.sspp{
+    color: yellow;
+}
+.left{
+    height: 98%;
+    width: 45%;
+}
+.right{
+    width: 45%;
+    height: 98%;
+}
+.dfs{
+    height: 100%;
+
+width: 100%;
+justify-content: space-between;
+margin: auto;
+display: inline-block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+.btno{
+    height: 40px;
+    width: 120px;
+
+    color: black;
+background-color: yellow;
+border: none;
+}
+.dsd{
+    display: flex;
+    flex-direction: row;
+flex-wrap: wrap;
+width: 100%;
+justify-content: space-evenly;
+height: 50%;
+
+}
+.img-container{
+   overflow: hidden;
+    border: 1px solid rgb(148, 144, 144);
+    transition:3s all ;
+    -webkit-transition:3s all ;
+    -moz-transition:3s all ;
+    -ms-transition:3s all ;
+ 
+    -o-transition:3s all ;
+
+      
+}
+.img-container img{
+    height: 350px;
+    width: 350px;
+}
+.img-container:hover {
+    padding-top: 20px;
+}
+.yellow{
+    font-size: 45px;;
+    margin:100px;
+    color: yellow;
+}
+.ou{
+    text-align: center;
+    color: yellow;
+}
+
+.fa-star{
+    color: yellow;
+}
+.vbo{
+ height: 500px;
+ width: 100%;
+ background-size: cover;
+
+    background-image: url(b1.png);
+padding-left: 60px;
+padding-top: 200px;
+
+}
+.uukk{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    color: yellow;
+}
+.vbo h2{
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.vboo{
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+   
+       background-image: url(b1.png);
+   padding-left: 60px;
+   padding-top: 200px;
+   
+
+}
+.jo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width: 80%;
+margin: auto;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+font-size: 15px;
+border-bottom: 1px solid black;
+border-top: 2px solid black;
+
+
+}
+.jjoo{
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: black;
+    margin-top: 100px;
+    margin-left: 200px;
+    float: inline-start;
+}
+
+
+body{
+    width: auto;
+    overflow-x: hidden;
+}
+
+html{
+    overflow-x: hidden;
+    width: auto;
+}
+.foop{
+    height: 200px;
+    width: 100%;
+    margin: auto;
+    border-top: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.foo{
+    font-size: 30px;
+
+    color: goldenrod;
+}
+.co{
+    margin-right: 100px;
+}
+.input{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.wide{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+}
+.as{
+    margin: 15px;
+    justify-content: space-between;
+    width: 40%;
+}
+.full{
+    margin: 15px;
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+.os{
+    margin-top: 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}
